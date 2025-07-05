@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+transformers==4.41.2
+torch
+pillow
+requests
+beautifulsoup4
